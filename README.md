@@ -1,0 +1,2 @@
+# A-Real-Time-Automated-Alert-System-for-Shoplifting-Using-Video--Based-Behavioral-Analysis-
+An AI-powered real-time theft detection system that identifies suspicious human behavior in retail stores using Deep Learning and Machine Learning. It analyzes CCTV footage, detects people, tracks body movements, classifies actions as normal or suspicious, and sends instant email alerts with captured frames.
