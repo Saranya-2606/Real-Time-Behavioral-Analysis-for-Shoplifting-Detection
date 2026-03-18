@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+data/
+venv/
+.DS_Store
+
+# Ignore large media, model files, and editor/project cruft
+*.mp4
+*.zip
+*.tar.gz
+*.tgz
+*.pt
+*.pth
+*.h5
+*.onnx
+trained_model.json
+models/
+.vscode/
+.idea/
+.venv/
+__MACOSX/
