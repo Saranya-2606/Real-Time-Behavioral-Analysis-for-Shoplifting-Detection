@@ -1,4 +1,4 @@
-# A-Real-Time-Automated-Alert-System-for-Shoplifting-Using-Video--Based-Behavioral-Analysis-
+ A-Real-Time-Automated-Alert-System-for-Shoplifting-Using-Video--Based-Behavioral-Analysis-
 An AI-powered real-time theft detection system that identifies suspicious human behavior in retail stores using Deep Learning and Machine Learning. It analyzes CCTV footage, detects people, tracks body movements, classifies actions as normal or suspicious, and sends instant email alerts with captured frames.
 
 
@@ -6,9 +6,9 @@ Here’s a clean, professional **README (≈450 words)** you can use for your pr
 
 ---
 
-# 🛒 Real-Time Shoplifting Detection System
+ Real-Time Shoplifting Detection System
 
-## 📌 Description
+## Description
 
 The **Real-Time Shoplifting Detection System** is an AI-powered surveillance solution designed to enhance retail security by detecting suspicious human behavior through video analysis. The system leverages computer vision and behavioral pattern recognition to identify potential shoplifting activities and generate instant alerts for store personnel.
 
@@ -16,18 +16,18 @@ This project focuses on automating theft detection in retail environments, reduc
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🎥 Real-time video monitoring using camera feeds
-* 🧠 AI-based behavioral analysis for suspicious activity detection
-* ⚡ Instant alert system for potential shoplifting events
-* 📊 Movement tracking and pattern recognition
-* 🛡️ Improves store security and reduces losses
-* 💻 User-friendly interface for monitoring and alerts
+* Real-time video monitoring using camera feeds
+*  AI-based behavioral analysis for suspicious activity detection
+* Instant alert system for potential shoplifting events
+* Movement tracking and pattern recognition
+* Improves store security and reduces losses
+* User-friendly interface for monitoring and alerts
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 * **Programming Language:** Python / Java (based on implementation)
 * **Libraries & Tools:** OpenCV, NumPy, TensorFlow / Machine Learning models
@@ -37,7 +37,7 @@ This project focuses on automating theft detection in retail environments, reduc
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The system captures live video from surveillance cameras.
 2. Frames are processed using computer vision techniques.
@@ -47,7 +47,7 @@ This project focuses on automating theft detection in retail environments, reduc
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── src/              # Source code files  
@@ -58,7 +58,7 @@ This project focuses on automating theft detection in retail environments, reduc
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository
 
@@ -71,7 +71,7 @@ This project focuses on automating theft detection in retail environments, reduc
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 * Retail stores and supermarkets
 * Shopping malls
@@ -80,7 +80,7 @@ This project focuses on automating theft detection in retail environments, reduc
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 * Integration with cloud-based storage
 * Advanced deep learning models for higher accuracy
@@ -89,7 +89,7 @@ This project focuses on automating theft detection in retail environments, reduc
 
 ---
 
-## 👤 Author
+##  Author
 
 **Daram Saranya**
 
