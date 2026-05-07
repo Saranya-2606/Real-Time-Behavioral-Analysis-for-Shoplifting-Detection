@@ -92,11 +92,3 @@ This project focuses on automating theft detection in retail environments, reduc
 ##  Author
 
 **Daram Saranya**
-
----
-
-If you want, I can also:
-
-* Add **badges (GitHub stars, license, etc.)**
-* Create a **professional README with screenshots + demo section**
-* Customize it for **placement/resume impact**
